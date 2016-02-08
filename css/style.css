@@ -1,0 +1,23 @@
+h3 {
+	text-align: center;
+}
+.center {
+	display: block; 
+	margin: 0 auto; 
+	height: 250px; 
+	width: 170px;
+}
+body {
+	background: #E8E8E8;
+}
+div { 
+	width: 500px; 
+	height: 780px; 
+	margin-bottom: 50px; 
+	margin-left: 28%; 
+	padding: 50px; 
+	border: 1px solid gray; 
+	background: white;
+	font-size: 18px; 
+	line-height: 24px;
+}
